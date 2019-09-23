@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/scott/.platformio/penv/bin:/home/scott/.platformio/penv:/home/scott/google-cloud-sdk/bin:/home/scott/.nvm/versions/node/v8.15.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/local/go/bin:/home/scott/.platformio/penv/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
